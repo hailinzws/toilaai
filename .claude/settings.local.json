@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(jupyter nbconvert *)"
+      "Bash(jupyter nbconvert *)",
+      "Bash(python \"MDS301/Learning/House/temp_script.py\")",
+      "Bash(python \"MDS301/Learning/House/temp_script_all.py\")",
+      "Bash(python test_pipeline.py)"
     ]
   }
 }
